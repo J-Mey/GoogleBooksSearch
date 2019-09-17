@@ -1,0 +1,22 @@
+{
+  "name": "googlebookssearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-Mey/GoogleBooksSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-Mey/GoogleBooksSearch/issues"
+  },
+  "homepage": "https://github.com/J-Mey/GoogleBooksSearch#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
